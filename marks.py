@@ -1,4 +1,4 @@
-marks = [80, 75, 90, 85, 70]
+marks = [80, 75, 89, 85, 70]
 
 total = sum(marks)
 average = total / len(marks)

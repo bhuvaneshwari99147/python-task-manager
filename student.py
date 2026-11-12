@@ -1,6 +1,6 @@
 def show_student():
-    name = "Rahul"
-    age = 21
+    name = "bhuvi"
+    age = 22
 
     print("Name:", name)
     print("Age:", age)
